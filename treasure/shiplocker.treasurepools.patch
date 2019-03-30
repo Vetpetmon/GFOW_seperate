@@ -1,0 +1,32 @@
+[
+  {
+    "op": "add",
+    "path": "/webberStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 15 ]},
+        {"item" : [ "webbersword", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "webbersilkcollector", 1 ]}
+      ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/candavaswebberStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "chocolate", 1 ]},
+        {"item" : [ "chocolate", 1 ]},
+        {"item" : [ "chocolate", 1 ]},
+        {"item" : [ "chocolate", 1 ]}
+      ]
+    }]]
+  }
+]
